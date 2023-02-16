@@ -1,4 +1,4 @@
-# DesignCode
+# SwiftUI Beautiful
 
 <img src="https://shorturl.at/ltHKM" height=450><img src="https://i.imgur.com/N9HfWdD.png" height=450>
 
